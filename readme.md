@@ -1,6 +1,6 @@
 ![CHEESE!](screenshots/reg_form.png)
 
-![CHEESE!](screenshots/login_form.png)
+![CHEESE!](screenshots/log_form.png)
 
 ![CHEESE!](screenshots/login_success.png)
 
